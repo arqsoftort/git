@@ -87,3 +87,9 @@ Les recomendamos estos tutoriales interactivos que pasan por muchas de las opera
 
 - https://try.github.io/levels/1/challenges/1
 - http://pcottle.github.io/learnGitBranching/
+
+##Git en los Laboratorios de Arquitectura de Software
+
+Los laboratorios que ofrecemos en https://github.com/arqsoftort/ fueron creados con el objetivo de que ustedes puedan clonarlos y obtener los archivos que están disponibles en ellos.
+
+También los invitamos a que si encuentran un error o quieren proponer una mejora, hagan un fork y un pull request de [esta manera](https://guides.github.com/activities/forking/) para que estos laboratorios sean cada vez más útiles.

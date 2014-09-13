@@ -88,6 +88,14 @@ Les recomendamos estos tutoriales interactivos que pasan por muchas de las opera
 - https://try.github.io/levels/1/challenges/1
 - http://pcottle.github.io/learnGitBranching/
 
+Por otro lado, también recomendamos la refcard ofrecida por DZone.com sobre Git
+
+- http://refcardz.dzone.com/refcardz/getting-started-git
+
+Y para profundizar más sobre el workflow de un equipo trabajando en Git (muy útil para el obligatorio)
+
+- https://www.atlassian.com/es/git/workflows#!workflow-feature-branch
+
 ##Git en los Laboratorios de Arquitectura de Software
 
 Los laboratorios que ofrecemos en https://github.com/arqsoftort/ fueron creados con el objetivo de que ustedes puedan clonarlos y obtener los archivos que están disponibles en ellos.
